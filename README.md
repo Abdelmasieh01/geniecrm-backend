@@ -1,4 +1,4 @@
-GenieCRM Backend Repo
+# GenieCRM Backend Repo
 
 To start the server just run these commands:
 ```bash
